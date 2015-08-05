@@ -12,6 +12,7 @@ public class Qualquer {
 		
 		int res = calc(2,2);
 		System.out.println(res);
+		System.out.println("MAH OEE");
 	}
 	
 	public static int calc(int a , int b){
